@@ -13,6 +13,7 @@ int main()
 		int* ptr2int = &varInt;
 		int** ptr2ptr = &ptr2int;
 		int*** ptr2ptr2 = &ptr2ptr;
+		SetConsoleTitleA("Alaska ist dumm wie ein Stueck Scheisse");
 
 		// Konsolenausgabe
 
